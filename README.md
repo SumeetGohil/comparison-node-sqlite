@@ -1,3 +1,9 @@
+# Simple Electron App to test Sqlite modules 
+
+```
+ npm start
+```
+
 # electron-quick-start
 
 **Clone and run for a quick way to see Electron in action.**
